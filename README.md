@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculator Project
 
 A simple interest calculator that calculates simple interest based on the principal amount, rate of interest, and time period.
 
